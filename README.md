@@ -38,7 +38,7 @@ I work as a frontend lead in my current organization, and I am a guy who knows h
 
 ### Contact
 
-- My portfolio: https://arme.dev \[you can use this to verify my frontend skills if you're unsure; FYI this was last updated two years ago\]
+- My portfolio: https://arme.dev \[you can use this to verify my frontend skills if you're unsure\]
 - Email: arbazcr77@gmail.com \[will love to hear back from you guys\]
 - github: https://github.com/armedev
 - linkedin: https://www.linkedin.com/in/abdul-hameed-armedev
