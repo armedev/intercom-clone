@@ -1,6 +1,7 @@
 {
-  "name": "temp",
+  "name": "intercom-clone",
   "version": "0.1.0",
+  "author": "armedev",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
