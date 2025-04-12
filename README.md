@@ -30,11 +30,13 @@ I am a full-stack engineer.
 
 I work as a frontend lead in my current organization, and I am a guy who knows his art.
 
-My editor: Nvim(neo-vim, vim)
-My preferred OS: UNIX-based, Linux or macOS
-Current favorite language: Golang, used to be Rust
-Languages tried or known: JS/TS, Go, Rust, Zig, C++/C, Python
-Frontend frameworks/libraries used: NextJS, SolidJS, React, Really like the idea of HTMX
+- My editor: Nvim(neo-vim, vim)
+- My preferred OS: UNIX-based, Linux or macOS
+- Current favorite language: Golang, used to be Rust
+- Languages tried or known: JS/TS, Go, Rust, Zig, C++/C, Python
+- Frontend frameworks/libraries used: NextJS, SolidJS, React, Really like the idea of HTMX
+
+### Contact
 
 - My portfolio: https://arme.dev \[you can use this to verify my frontend skills if you're unsure; FYI this was last updated two years ago\]
 - Email: arbazcr77@gmail.com \[will love to hear back from you guys\]
